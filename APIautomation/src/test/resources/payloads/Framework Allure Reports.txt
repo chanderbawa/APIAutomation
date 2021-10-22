@@ -1,0 +1,9 @@
+Go through 1.11
+Allure reports setup pending
+
+
+https://www.linkedin.com/pulse/allure-report-open-source-reporting-framework-aniket-jain
+
+Today 04 Sept 2021
+
+https://conns.atlassian.net/plugins/servlet/mobile?originPath=%2Fbrowse%2FCIW-169#issue/CIW-169
